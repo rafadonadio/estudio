@@ -1,0 +1,62 @@
+/* Float */
+.floatleft{
+	float:				left;
+}
+.floatright{
+	float:				right;
+}
+.clearboth{
+	clear:				both;
+}
+.hairline{
+	font-size:			0px;
+	height:				1px;
+}
+
+/* background colors*/
+
+.bgcolor_A0BACA {
+	background-color: #A0BACA;
+}
+.bgcolor_88A2B1 {
+	background-color: #88A2B1;
+}
+.bgcolor_D7D7D7 {
+	background-color: #D7D7D7;
+}
+.bgcolor_A1BBCA {
+	background-color: #A1BBCA;
+}     
+.bgcolor_9AB2C0 {
+	background-color: #9AB2C0;
+}
+.bgcolor_99B1BF{
+	background-color: #99B1BF;
+}
+.bgcolor_2F414C{
+	background-color: #2F414C;  
+}
+.bgcolor_6c818c{
+	background-color: #6c818c;  
+}
+
+/* borders*/
+.borderleft_8ea5b2{
+	border-left: 1px solid #8ea5b2;
+}
+
+.borderbottom_8ea5b2{
+	border-bottom: 1px solid #8ea5b2;
+}
+
+.border_cccccc{
+	border: 1px solid #CCCCCC;
+}
+
+.border_2F414C{
+	border: 1px solid #2F414C;
+}
+
+.border_87A3B3{
+	border: 1px solid #87A3B3;
+}

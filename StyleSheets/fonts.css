@@ -1,0 +1,116 @@
+.tahoma12 {
+	font-family:		Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 			12px;
+}
+
+.tahoma11 {
+	font-family: 		Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 			11px;
+}	
+
+.tahoma10 {
+	font-family:		Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:			10px;
+}
+
+.tahoma9 {
+	font-family:		Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:			9px;
+}
+
+.verdana12 {
+	font-family:		Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:			12px;
+}
+
+.verdana11 {
+	font-family:		Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:			11px;
+}
+
+.verdana10 {
+	font-family:		Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:			10px;
+}
+
+.verdana9 {
+	font-family: 		Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:			9px;
+}
+
+.bold{
+	font-weight: 		bold;
+}
+
+.underline{
+	text-decoration:	underline;
+}
+
+.nounderline{
+	text-decoration:	none;
+}
+
+/* align*/
+.align_right{
+	text-align: 		right;
+}
+
+.align_left{
+	text-align: 		left;
+}
+
+.align_center{
+	text-align: 		center;
+}
+
+.align_justify{
+	text-align: 		justify;
+}
+
+/*COLORS*/
+
+.color_dfe9f0{
+	color:				#dfe9f0;
+}
+.color_3a4850{
+	color:				#3a4850;
+}
+.color_ffffff{
+	color:				#ffffff;
+}
+.color_5b5b5b{
+	color:				#5b5b5b;
+}
+.color_888888{
+	color:				#888888;
+}
+.color_EA8E04 {
+	color: 				#EA8E04;
+}
+
+.color_2D444F{
+	color:				#2D444F;
+}
+
+.color_2C3439{
+	color: 				#2C3439;
+}
+
+.color_3D5967{
+	color: 				#3D5967;
+}
+
+.color_ACB3B8{
+	color: 				#ACB3B8;
+}         
+
+.color_F3F3F3 {
+	color: 				#F3F3F3;
+}
+
+.color_30373C{
+	color:				#30373C;
+}
+.color_DFE9F0{
+	color:				#DFE9F0;
+}

@@ -1,0 +1,47 @@
+.advertise_table {
+	font: 				normal 11px Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	color: 				#4f5559;
+	border-left: 		1px solid #dbdbdb;
+	border-top: 		1px solid #dbdbdb;
+	border-right: 		0px solid #dbdbdb;
+	border-bottom: 		0px solid #dbdbdb;
+	margin-top:			10px;
+}
+
+.advertise_table td, 
+.advertise_table th {
+	padding: 5px;
+	padding-left: 		10px;
+	padding-right: 		10px;
+}
+
+.advertise_table th {
+	text-align: 		left;
+}
+.advertise_table td {
+	text-align: 		center;
+}
+
+  
+    
+.advertise_table td,
+.advertise_table th {
+  border-right: 		1px solid #dbdbdb;
+  border-bottom: 		1px solid #dbdbdb;
+}
+
+
+.advertise_table th {
+	background-color: 	#d2d6d9;
+}
+
+.even{
+	background-color: 	#f7f7f7;
+}
+.odd{
+	background-color: 	#ffffff;
+}
+
+.advertise_table a:link, .advertise_table a:hover, .advertise_table a:visited {
+	color:				#5b5b5b;
+}
